@@ -1,2 +1,2 @@
 # PassGen
-Генератор паролей на Windows, *UNIX; написан на Java
+Генератор паролей на Windows, *UNIX; написан на Python
