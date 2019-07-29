@@ -1,2 +1,2 @@
-# PassGen ![PassGen](https://github.com/IlyaVishnikin/PassGen/blob/master/logo/logo.png)
+# PassGen
 Генератор паролей на Windows, *UNIX; написан на Python 3.7
